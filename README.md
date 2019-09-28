@@ -1,5 +1,5 @@
 # Git_course
-for elzero web school git course
+lecture 0 git course
 
 
 
